@@ -13,7 +13,7 @@ BuildRequires:	goocanvas-devel
 BuildRequires:	gtk-doc
 BuildRequires:	libtool
 BuildRequires:	libxslt-progs
-BuildRequires:	pkgconfig
+BuildRequires:	pkg-config
 BuildRequires:	python-devel
 BuildRequires:	python-pycairo-devel
 BuildRequires:	python-pygobject-devel
